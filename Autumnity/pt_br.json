@@ -1,0 +1,102 @@
+{
+  "_comment": "Comments shouldn't be translated. They are used to instruct translators.",
+  "block.autumnity.snail_slime": "Gosma de caracol",
+  "block.autumnity.snail_slime_block": "Bloco de gosma de caracol",
+  "block.autumnity.pancake": "Panqueca",
+  "block.autumnity.foul_berry_bush_pips": "Sementes de cereja-sangue",
+  "block.autumnity.foul_berry_bush": "Arbusto de cereja-sangue",
+  "block.autumnity.tall_foul_berry_bush": "Arbusto de cereja-sangue alto",
+  "_comment": "Uma flor encontrada nas florestas de bordo.",
+  "block.autumnity.autumn_crocus": "Açafrão-do-prado",
+  "block.autumnity.potted_autumn_crocus": "Açafrão-do-prado em um vaso",
+  
+  "block.autumnity.maple_log": "Tronco de bordo",
+  "block.autumnity.maple_wood": "Madeira de bordo",
+  "block.autumnity.stripped_maple_log": "Tronco de bordo descascado",
+  "block.autumnity.stripped_maple_wood": "Madeira de bordo descascada",
+  "_comment": "Refere-se à seiva saindo da madeira",
+  "block.autumnity.sappy_maple_log": "Tronco de bordo viçoso",
+  "block.autumnity.sappy_maple_wood": "Madeira de bordo viçosa",
+  
+  "block.autumnity.maple_planks": "Tábuas de bordo",
+  "block.autumnity.maple_stairs": "Escadas de bordo",
+  "block.autumnity.maple_slab": "Laje de bordo",
+  "block.autumnity.maple_pressure_plate": "Placa de pressão de bordo",
+  "block.autumnity.maple_button": "Botão de bordo",
+  "block.autumnity.maple_fence": "Cerca de bordo",
+  "block.autumnity.maple_fence_gate": "Portão de bordo",
+  "block.autumnity.maple_door": "Porta de bordo",
+  "block.autumnity.maple_trapdoor": "Alçapão de bordo",
+  "block.autumnity.maple_sign": "Placa de bordo",
+  "block.autumnity.maple_wall_sign": "`Placa de bordo na parede",
+  
+  "block.autumnity.maple_leaves": "Folhas de bordo",
+  "block.autumnity.yellow_maple_leaves": "Folhas de bordo amarelas",
+  "block.autumnity.orange_maple_leaves": "Folhas de bordo laranjas",
+  "block.autumnity.red_maple_leaves": "Folhas de bordo vermelhas",
+  
+  "block.autumnity.maple_sapling": "Muda de bordo",
+  "block.autumnity.yellow_maple_sapling": "Muda de bordo amarela",
+  "block.autumnity.orange_maple_sapling": "Muda de bordo laranja",
+  "block.autumnity.red_maple_sapling": "Muda de bordo vermelha",
+  
+  "block.autumnity.potted_maple_sapling": "Muda de bordo em um vaso",
+  "block.autumnity.potted_yellow_maple_sapling": "Muda de bordo amarela em um vaso",
+  "block.autumnity.potted_orange_maple_sapling": "Muda de bordo laranja em um vaso",
+  "block.autumnity.potted_red_maple_sapling": "Muda de bordo vermelha em um vaso",
+  
+  "block.autumnity.maple_leaf_carpet": "Pilha de folhas de bordo",
+  "block.autumnity.yellow_maple_leaf_carpet": "Pilha de folhas de bordo amarelas",
+  "block.autumnity.orange_maple_leaf_carpet": "Pilha de folhas de bordo laranjas",
+  "block.autumnity.red_maple_leaf_carpet": "Pilha de folhas de bordo vermelhas",
+  
+  "item.autumnity.maple_boat": "Barco de bordo",
+  "item.autumnity.sap_bottle": "Frasco de seiva",
+  "item.autumnity.syrup_bottle": "Frasco de xarope de bordo",
+  "item.autumnity.foul_berries": "Cerejas-sangue",
+  "item.autumnity.foul_berry_pips": "Sementes de cereja-sangue",
+  "item.autumnity.foul_berry_leaf": "Folha de cereja-sangue",
+  "item.autumnity.foul_berry_pie": "Torta de cereja-sangue",
+  "item.autumnity.snail_spawn_egg": "Ovo gerador de caracol",
+  "item.autumnity.snail_shell_piece": "Pedaço de concha de caracol",
+  "item.autumnity.snail_shell_chestplate": "Peitoral de concha de caracol",
+  
+  "entity.autumnity.boat": "Barco",
+  "entity.autumnity.snail": "Caracol",
+  
+  "_comment": "This effect extends the duration of active potion effects.",
+  "effect.autumnity.extension": "Extenção",
+  "_comment": "This effect prevents all healing.",
+  "effect.autumnity.life_stasis": "Estase de saúde",
+  
+  "item.minecraft.potion.effect.extension": "Poção de extensão",
+  "item.minecraft.splash_potion.effect.extension": "Poção arremessável de extensão",
+  "item.minecraft.lingering_potion.effect.extension": "Poção prolongada de extensão",
+  "item.minecraft.tipped_arrow.effect.extension": "Flecha de extensão",
+  
+  "item.minecraft.potion.effect.anti_healing": "Poção de antiregeneração",
+  "item.minecraft.splash_potion.effect.anti_healing": "Poção arremessável de antiregeneração",
+  "item.minecraft.lingering_potion.effect.anti_healing": "Poção prolongada de antiregeneração",
+  "item.minecraft.tipped_arrow.effect.anti_healing": "Flecha de antiregeneração",
+  
+  "biome.autumnity.maple_forest": "Floresta de bordo",
+  "biome.autumnity.maple_forest_hills": "Colinas da floresta de bordo",
+  "biome.autumnity.pumpkin_fields": "Campos de abóbora",
+  
+  "subtitles.entity.snail.eat": "Caracol come",
+  "subtitles.entity.snail.hurt": "Caracol ferido",
+  
+  
+  "_comment": "Quark Stuff",
+  
+  "block.autumnity.maple_vertical_slab": "Laje vertical de bordo",
+  "block.autumnity.vertical_maple_planks": "Tábuas verticais de bordo",
+  "block.autumnity.maple_bookshelf": "Estante de livros de bordo",
+  "block.autumnity.maple_ladder": "Escada de mão de bordo",
+  "block.autumnity.foul_berry_sack": "Saco de cereja-sangue",
+  "block.autumnity.potted_foul_berries": "Cerejas-sangue em um vaso",
+  
+  "_comment": "The name refers to the fact that the player needs to sneak to activate the special properties of the chestplate.",
+  "advancements.husbandry.sneaky_protection.title": "Proteção agachada",
+  "advancements.husbandry.sneaky_protection.description": "Fabrique um peitoral de concha de caracol"
+}
