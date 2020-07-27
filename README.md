@@ -1,2 +1,0 @@
-# langfiles
-Repositório de traduções
